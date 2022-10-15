@@ -21,7 +21,7 @@
 </div>
 
 ### About me
-- Frontend Developer at Câmara dos Deputados
+- UX, Front End Dev & Accessibility at Câmara dos Deputados
 - More than 10 years of experience
 
 ### Talk to me
