@@ -9,6 +9,7 @@
 - Tailwind CSS (learning)
 - Storybook
 - Javascript (ES6)
+- TypeScript
 - Nodejs
 - Vue 
 - React (learning)
