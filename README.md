@@ -1,9 +1,9 @@
 > 👋 Hello! Welcome to my Github profile.
 ## My name is Michel Shintaku and my nickname is "Shin"!
 
-### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, Tailwind CSS and other technologies.
+### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, Tailwind CSS, Storybook and other technologies.
 
-### My Technical Skills
+### My technical skills
 - HTML5
 - CSS3, SASS and LESS
 - Tailwind CSS (learning)
