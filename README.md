@@ -1,37 +1,52 @@
 > 👋 Hello! Welcome to my Github profile.
-## My name is Michel Shintaku and my nickname is "Shin"!
 
-### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, Tailwind CSS, Storybook and other technologies.
 
-### My technical skills
-- HTML5
-- CSS3, SASS and LESS
-- Tailwind CSS (learning)
-- Storybook
-- Javascript (ES6)
-- TypeScript (learning)
-- Nodejs
-- Vue 
-- React (learning)
-- Git
+#### About me:
+ - I'm web developer since 2010
+ - I'm graduated in Computer Science
+ - How to reach me: linkedIn, gmail and gitHub
 
-<div>
-<a href="https://github.com/shintaku-michel">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shintaku-michel&layout=compact&langs_count=10&hide=&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shintaku-michel&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
-</div>
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+    </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
+    </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+    </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+    </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+    </a>
+  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> 
+    </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+    </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    </a>
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
+    </a> 
+  <a href="https://www.w3.org/html/](https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+    </a> 
+</p>
 
-### About me
-- UX, Front End Dev & Accessibility at Câmara dos Deputados
-- More than 10 years of experience
-
-### Talk to me
-<div>
-  <a href = "mailto:michel.shintaku@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/mshintaku/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
-</div>
+##### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, Tailwind CSS, Storybook and other technologies.
