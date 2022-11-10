@@ -49,4 +49,4 @@
     </a> 
 </p>
 
-##### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, Tailwind CSS, Storybook and other technologies.
+##### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, JavaScript, Tailwind CSS and others technologies.
