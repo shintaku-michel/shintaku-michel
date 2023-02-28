@@ -2,7 +2,7 @@
 
 
 #### About me:
-I am a software developer with a passion for creating intuitive and accessible user interfaces. With over 10 years of experience in software development, I have skills in JavaScript, TypeScript, Vue, React, Node, EJS, HTML5, CSS3, Ionic, Bootstrap, Git, NPM, and other technologies. Currently, I work as a UX, Frontend Dev & Accessibility Specialist at the Chamber of Deputies, where I create solutions to make users' experience more enjoyable and efficient.
+I am a software developer with a passion for creating intuitive and accessible user interfaces. With over 10 years of experience in software development, I have skills in JavaScript, TypeScript, Vue, React (learning), Node, EJS, HTML5, CSS3, Ionic, Bootstrap, Git, NPM, and other technologies. Currently, I work as a UX, Frontend Dev & Accessibility Specialist at the Chamber of Deputies, where I create solutions to make users' experience more enjoyable and efficient.
 
 I am highly committed to the quality of my work and enjoy tackling challenges that allow me to apply my technical and managerial skills. Additionally, I am a continuous learning enthusiast and am always looking to stay up to date on new trends and technologies in the market.
 
