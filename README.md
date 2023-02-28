@@ -50,5 +50,3 @@ If you are looking for an experienced, committed, and passionate front-end devel
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
     </a> 
 </p>
-
-##### If you have any question/feedback, please do not hesitate to reach out to me! I'm currently working on Vue, React, JavaScript, Tailwind CSS and others technologies.
