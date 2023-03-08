@@ -1,12 +1,12 @@
-> 👋 Hello! Welcome to my Github profile.
+> 👋 Olá! Bem-vindo ao meu Github.
 
 
 #### About me:
-I am a software developer passionate about creating intuitive and accessible user interfaces. With over 10 years of experience in web development, I have skills in Node, Vue, EJS, React, Javascript, Typescript, Semantic HTML, CSS and Preprocessors, Tailwind CSS, BEM CSS Pattern, Tooling, Ionic, Bootstrap, Git, GD NPM, and other technologies.
+Desenvolvedor de software apaixonado pela criação de interfaces de usuário intuitivas e acessíveis. Possuo mais de 10 anos de experiência em desenvolvimento web, tenho habilidades em Node, Vue, EJS, React, Javascript, Typescript, HTML Semântico, CSS e Pré-processadores, Tailwind CSS, Padrão de CSS BEM, Tooling, Ionic, Bootstrap, Git, GD NPM e outras tecnologias. 
 
-Currently, I work as a UX Specialist, Frontend Dev & Accessibility at the Chamber of Deputies, where I help develop solutions to make the user experience more enjoyable and efficient.
+Atualmente, trabalho como Especialista em UX, Frontend Dev & Accessibility na Câmara dos Deputados, onde ajudo a desenvolver soluções para tornar a experiência dos usuários mais agradável e eficiente.
 
-I am committed to the quality of my work and enjoy tackling challenges that allow me to apply my technical and managerial skills. Additionally, I am a continuous learning enthusiast and always seeking to update myself on new market trends and technologies.
+Sou comprometido com a qualidade do meu trabalho e gosto de enfrentar desafios que me permitam aplicar minhas habilidades técnicas e gerenciais. Além disso, sou um entusiasta da aprendizagem contínua e sempre estou procurando me atualizar sobre novas tendências e tecnologias do mercado.
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
