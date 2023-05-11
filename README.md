@@ -2,11 +2,11 @@
 
 
 #### About me:
-Desenvolvedor de software apaixonado pela criação de interfaces de usuário intuitivas e acessíveis. Possuo mais de 10 anos de experiência em desenvolvimento web, tenho habilidades em Node, Vue, EJS, React, Javascript, Typescript, HTML Semântico, CSS e Pré-processadores, Tailwind CSS, Padrão de CSS BEM, Tooling, Ionic, Bootstrap, Git, GD NPM e outras tecnologias. 
+Frontend Developer and UX/UI Designer passionate about creating challenging and intuitive interfaces, with over 12 years of experience in web development and user experience design.
 
-Atualmente, trabalho como Especialista em UX, Frontend Dev & Accessibility na Câmara dos Deputados, onde ajudo a desenvolver soluções para tornar a experiência dos usuários mais agradável e eficiente.
+I have skills in various technologies, such as Vue, React, TypeScript, JavaScript, HTML, CSS and preprocessors, Bootstrap, Tailwind CSS, wireframe development, prototyping, visual design, among others.
 
-Sou comprometido com a qualidade do meu trabalho e gosto de enfrentar desafios que me permitam aplicar minhas habilidades técnicas e gerenciais. Além disso, sou um entusiasta da aprendizagem contínua e sempre estou procurando me atualizar sobre novas tendências e tecnologias do mercado.
+Currently, I work as a UX/UI Designer, Frontend Dev & Accessibility at the Chamber of Deputies, where we collaborate as a team to build interface solutions that make users' experience more enjoyable and efficient. I enjoy working in dynamic and multidisciplinary environments and am always looking for new opportunities to apply and expand my skills.
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
