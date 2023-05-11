@@ -1,4 +1,4 @@
-> 👋 Olá! Bem-vindo ao meu Github.
+> 👋 Hello, welcome to my Github.
 
 
 #### About me:
