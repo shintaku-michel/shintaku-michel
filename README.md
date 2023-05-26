@@ -2,7 +2,7 @@
 
 
 #### About me:
-Frontend Developer and UX/UI Designer passionate about creating challenging and intuitive interfaces, with over 12 years of experience in web development and user experience design.
+Frontend Developer and UX/UI Designer with over 12 years of experience in web development and user experience design.
 
 I have skills in various technologies, such as Vue, React, TypeScript, JavaScript, HTML, CSS and preprocessors, Bootstrap, Tailwind CSS, wireframe development, prototyping, visual design, among others.
 
