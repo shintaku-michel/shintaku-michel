@@ -2,11 +2,11 @@
 
 
 #### About me:
-Frontend Developer and UX/UI Designer with over 12 years of experience in web development and user experience design.
+Frontend Developer and UX/UI Designer with over 12 years of experience in web development.
 
-I have skills in various technologies, such as Vue, React, JavaScript, ES6 e ES7, TypeScript, Semantic HTML, CSS and preprocessors, Styled Components, Bootstrap, Tailwind CSS, wireframe development, prototyping, visual design, Scrum, Kanban among others.
+Hard Skills: Vue, React, JavaScript, ES6 and ES7, TypeScript, Semantic HTML, A11y, CSS and Preprocessors, Styled Components, Bootstrap, Tailwind CSS, Git and GitHub. Wireframe Development, Prototyping, Visual Design, and Design System. Agile Methodologies: Scrum and Kanban.
 
-Currently, I work as a UX/UI Designer, Frontend Dev & Accessibility at the Chamber of Deputies, where we collaborate as a team to build interface solutions that make users' experience more enjoyable and efficient. I enjoy working in dynamic and multidisciplinary environments and am always looking for new opportunities to apply and expand my skills.
+Soft Skills: I enjoy helping people, teaching, proactivity, teamwork, discipline, organization, resilience, empathy, and continuous professional growth.
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
