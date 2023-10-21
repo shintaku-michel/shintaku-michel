@@ -4,7 +4,7 @@
 #### About me:
 Frontend Developer and UX/UI Designer with over 12 years of experience in web development.
 
-Hard Skills: Vue, React, JavaScript, ES6 and ES7, TypeScript, Semantic HTML, A11y, CSS and Preprocessors, Styled Components, Bootstrap, Tailwind CSS, Git and GitHub. Wireframe Development, Prototyping, Visual Design, and Design System. Agile Methodologies: Scrum and Kanban.
+Hard Skills: Vue, React, JavaScript, ES6 and ES7, TypeScript, Semantic HTML, A11y, CSS and Preprocessors, Styled Components, Bootstrap, Tailwind CSS, Git and GitHub. Wireframe Development, Prototyping, Visual Design and Design System. Agile Methodologies: Scrum and Kanban.
 
 Soft Skills: I enjoy helping people, teaching, proactivity, teamwork, discipline, organization, resilience, empathy, and continuous professional growth.
 
