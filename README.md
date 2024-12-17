@@ -57,9 +57,9 @@ I am a Frontend Developer and UX/UI Designer with over 12 years of experience cr
 ## What I Bring to the Team
 I combine strong technical skills with a passion for collaboration, innovation, and growth. Known for being proactive and empathetic, I enjoy:
 
-*Helping teams overcome challenges
-*Sharing knowledge and mentoring colleagues
-*Staying organized and disciplined under pressure
-*Continuously learning to deliver modern, user-centric solutions
-*I’m driven by a commitment to build experiences that make a difference — blending functionality, aesthetics, and accessibility.
+* Helping teams overcome challenges
+* Sharing knowledge and mentoring colleagues
+* Staying organized and disciplined under pressure
+* Continuously learning to deliver modern, user-centric solutions
+* I’m driven by a commitment to build experiences that make a difference — blending functionality, aesthetics, and accessibility.
 
