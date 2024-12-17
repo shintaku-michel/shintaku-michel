@@ -32,7 +32,7 @@ Soft Skills: I enjoy helping people, teaching, proactivity, teamwork, discipline
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
     </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+        <img src="src/app/assets/icons/skills/icon_stack_tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
     </a>
   <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> 
