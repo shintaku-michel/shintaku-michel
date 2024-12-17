@@ -2,7 +2,6 @@
 
 
 #### About me:
-About Me
 I am a Frontend Developer and UX/UI Designer with over 12 years of experience crafting engaging, accessible, and high-performance web applications. I specialize in bridging the gap between design and development, creating intuitive user experiences with clean, scalable code.
 
 ## Technical Expertise
