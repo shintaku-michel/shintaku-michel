@@ -7,9 +7,13 @@ I am a Frontend Developer and UX/UI Designer with over 12 years of experience cr
 
 ## Technical Expertise
 Frontend Development: Vue.js, React, JavaScript (ES6/ES7), TypeScript
+
 Web Standards: Semantic HTML, Accessibility (A11y), CSS, SCSS, Styled Components
+
 Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
+
 UX/UI Design: Wireframing, Prototyping, Visual Design, and Design Systems
+
 Agile Methodologies: Scrum, Kanban
 
 <div align="left"> 
