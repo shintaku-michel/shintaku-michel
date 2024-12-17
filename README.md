@@ -6,15 +6,11 @@ About Me
 I am a Frontend Developer and UX/UI Designer with over 12 years of experience crafting engaging, accessible, and high-performance web applications. I specialize in bridging the gap between design and development, creating intuitive user experiences with clean, scalable code.
 
 ## Technical Expertise
-Frontend Development: Vue.js, React, JavaScript (ES6/ES7), TypeScript
-
-Web Standards: Semantic HTML, Accessibility (A11y), CSS, SCSS, Styled Components
-
-Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
-
-UX/UI Design: Wireframing, Prototyping, Visual Design, and Design Systems
-
-Agile Methodologies: Scrum, Kanban
+* Frontend Development: Vue.js, React, JavaScript (ES6/ES7), TypeScript
+* Web Standards: Semantic HTML, Accessibility (A11y), CSS, SCSS, Styled Components
+* Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
+* UX/UI Design: Wireframing, Prototyping, Visual Design, and Design Systems
+* Agile Methodologies: Scrum, Kanban
 
 <div align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -61,9 +57,9 @@ Agile Methodologies: Scrum, Kanban
 ## What I Bring to the Team
 I combine strong technical skills with a passion for collaboration, innovation, and growth. Known for being proactive and empathetic, I enjoy:
 
-Helping teams overcome challenges
-Sharing knowledge and mentoring colleagues
-Staying organized and disciplined under pressure
-Continuously learning to deliver modern, user-centric solutions
-I’m driven by a commitment to build experiences that make a difference — blending functionality, aesthetics, and accessibility.
+*Helping teams overcome challenges
+*Sharing knowledge and mentoring colleagues
+*Staying organized and disciplined under pressure
+*Continuously learning to deliver modern, user-centric solutions
+*I’m driven by a commitment to build experiences that make a difference — blending functionality, aesthetics, and accessibility.
 
