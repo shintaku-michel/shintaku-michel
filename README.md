@@ -2,9 +2,9 @@
 
 
 #### About me:
-I am a Frontend Developer and UX/UI Designer with over 15 years of experience crafting engaging, accessible, and high-performance web applications. I specialize in bridging the gap between design and development, creating intuitive user experiences with clean, scalable code.
+Frontend Developer and UX/UI Designer with over 15 years of experience. Passionate about bridging the gap between design and development, crafting intuitive user experiences with clean, efficient, and scalable code.
 
-## Technical Expertise
+## Hard Skills
 * Frontend Development: Vue.js, React, JavaScript (ES6/ES7), TypeScript
 * Web Standards: Semantic HTML, Accessibility (A11y), CSS, SCSS, Styled Components
 * Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
@@ -53,12 +53,13 @@ I am a Frontend Developer and UX/UI Designer with over 15 years of experience cr
     </a> 
 </div>
 
-## What I Bring to the Team
-I combine strong technical skills with a passion for collaboration, innovation, and growth. Known for being proactive and empathetic, I enjoy:
+## Soft Skills
+I combine strong technical skills with a passion for collaboration, innovation, and overcoming challenges.
 
 * Helping teams overcome challenges
 * Sharing knowledge and mentoring colleagues
 * Staying organized and disciplined under pressure
 * Continuously learning to deliver modern, user-centric solutions
-* I’m driven by a commitment to build experiences that make a difference — blending functionality, aesthetics, and accessibility.
+
+Driven by a commitment to create impactful experiences — blending functionality, aesthetics, and accessibility.
 
