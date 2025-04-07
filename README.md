@@ -1,12 +1,13 @@
-> 👋 Hello, welcome to my Github.
+> 👋 Olá, bem-vindo ao meu GitHub.
 
 
-#### About me:
-Frontend Developer and UX/UI Designer with over 15 years of experience. Passionate about bridging the gap between design and development, crafting intuitive user experiences with clean, efficient, and scalable code.
+#### Sobre mim:
+Desenvolvedor Frontend com conhecimentos em UX/UI Design.
+Mais de 15 anos de experiência na criação de interfaces digitais. Atua com foco na experiência do usuário e acessibilidade, unindo design e desenvolvimento para entregar soluções intuitivas, escaláveis e com código limpo.
 
 ## Hard Skills
 * Frontend Development: Vue.js, React, JavaScript (ES6/ES7), TypeScript
-* Web Standards: Semantic HTML, Accessibility (A11y), CSS, SCSS, Styled Components
+* Web Standards: Semantic HTML, Web Accessibility (W3C), CSS, SCSS, Styled Components
 * Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
 * UX/UI Design: Wireframing, Prototyping, Visual Design, and Design Systems
 * Agile Methodologies: Scrum, Kanban
@@ -54,12 +55,5 @@ Frontend Developer and UX/UI Designer with over 15 years of experience. Passiona
 </div>
 
 ## Soft Skills
-I combine strong technical skills with a passion for collaboration, innovation, and overcoming challenges.
-
-* Helping teams overcome challenges
-* Sharing knowledge and mentoring colleagues
-* Staying organized and disciplined under pressure
-* Continuously learning to deliver modern, user-centric solutions
-
-Driven by a commitment to create impactful experiences — blending functionality, aesthetics, and accessibility.
+Profissional proativo, com forte capacidade de iniciativa e resolução de problemas. Valorizo e pratico o trabalho colaborativo, mantendo uma comunicação clara e objetiva com equipes multidisciplinares. Tenho disciplina e organização como pilares da minha rotina, o que me permite cumprir prazos com eficiência. Além disso, sou resiliente diante de desafios, mantendo o foco e a motivação para alcançar resultados consistentes, mesmo em contextos desfavoráveis.
 
