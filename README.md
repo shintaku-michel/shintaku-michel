@@ -1,7 +1,7 @@
 > 👋 Olá, bem-vindo ao meu GitHub.
 
 
-#### Sobre mim:
+#### Minha trajetória
 Desenvolvedor Frontend com conhecimentos em UX/UI Design.
 Mais de 15 anos de experiência na criação de interfaces digitais. Atua com foco na experiência do usuário e acessibilidade, unindo design e desenvolvimento para entregar soluções intuitivas, escaláveis e com código limpo.
 
