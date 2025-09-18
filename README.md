@@ -2,14 +2,17 @@
 
 
 #### Minha trajetória
-Desenvolvedor Frontend com conhecimentos em UX/UI Design.
-Mais de 15 anos de experiência na criação de interfaces digitais. Atua com foco na experiência do usuário e acessibilidade, unindo design e desenvolvimento para entregar soluções intuitivas, escaláveis e com código limpo.
+Desenvolvedor Frontend Sênior com mais de 15 anos de experiência na criação de interfaces digitais. Especialista em transformar conceitos de design em aplicações funcionais, intuitivas e acessíveis, unindo UX/UI Design, performance e escalabilidade. Domínio de tecnologias modernas como HTML5, CSS3, JavaScript, TypeScript, Vue.js e React, além de boas práticas de acessibilidade (WCAG), responsividade e código limpo. Atua com foco na experiência do usuário e na entrega de soluções robustas que agregam valor ao negócio e facilitam a vida das pessoas.
 
 ## Hard Skills
-* Frontend Development: Vue.js, React, JavaScript (ES6/ES7), TypeScript
-* Web Standards: Semantic HTML, Web Accessibility (W3C), CSS, SCSS, Styled Components
+* Frontend Development: Vue.js, React, JavaScript (ES6+), TypeScript
+* Gerenciadores de estado: Redux, Zustand, Pinia, Vuex
+* APIs REST
+* Ferramentas de build: Webpack e Vite
+* CI/CD (Integração e Deploy Contínuo)
+* Web Standards: Semantic HTML, Web Accessibility (W3C), CSS, SCSS, Styled Components e responsividade
 * Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
-* UX/UI Design: Wireframing, Prototyping, Visual Design, and Design Systems
+* UX/UI: Wireframing, Prototyping, Visual Design and Design Systems
 * Agile Methodologies: Scrum, Kanban
 
 <div align="left"> 
