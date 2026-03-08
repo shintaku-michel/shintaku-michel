@@ -2,61 +2,17 @@
 
 
 #### Minha trajetória
-Desenvolvedor Frontend Sênior com mais de 15 anos de experiência na criação de interfaces digitais. Especialista em transformar conceitos de design em aplicações funcionais, intuitivas e acessíveis, unindo UX/UI Design, performance e escalabilidade. Domínio de tecnologias modernas como HTML5, CSS3, JavaScript, TypeScript, Vue.js e React, além de boas práticas de acessibilidade (WCAG), responsividade e código limpo. Atua com foco na experiência do usuário e na entrega de soluções robustas que agregam valor ao negócio e facilitam a vida das pessoas.
+Desenvolvedor Frontend com mais de 15 anos de experiência na construção de interfaces web escaláveis, acessíveis e de alta performance.
 
-## Hard Skills
-* Frontend Development: Vue.js, React, JavaScript (ES6+), TypeScript
-* Gerenciadores de estado: Redux, Zustand, Pinia, Vuex
-* APIs REST
-* Ferramentas de build: Webpack e Vite
-* CI/CD (Integração e Deploy Contínuo)
-* Web Standards: Semantic HTML, Web Accessibility (W3C), CSS, SCSS, Styled Components e responsividade
-* Frameworks & Tools: Bootstrap, Tailwind CSS, Git & GitHub
-* UX/UI: Wireframing, Prototyping, Visual Design and Design Systems
-* Agile Methodologies: Scrum, Kanban
+Especialista em JavaScript (ES6+), TypeScript, HTML5 e CSS3, com experiência profissional em Vue.js e experiência prática em React, incluindo projetos desenvolvidos durante minha formação recente. Tenho forte foco em arquitetura de frontend, design systems, performance e acessibilidade (A11y), buscando sempre entregar experiências digitais eficientes e centradas no usuário.
 
-<div align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/> 
-    </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-    </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-    </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/Tuanxu5/my_portfolio/blob/master/src/app/assets/icons/skills/icon_stack_tailwind.svg" alt="tailwindcss" width="40" height="40"/> 
-    </a>
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> 
-    </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-    </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-    </a>
-  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-    </a> 
-  <a href="https://www.w3.org/html/](https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-    </a> 
-</div>
+Ao longo da carreira, atuei no desenvolvimento de aplicações modernas integradas a APIs REST, utilizando ferramentas como Vite, Webpack, Git/GitHub e boas práticas de desenvolvimento frontend.
 
-## Soft Skills
-Profissional proativo, com forte capacidade de iniciativa e resolução de problemas. Valorizo e pratico o trabalho colaborativo, mantendo uma comunicação clara e objetiva com equipes multidisciplinares. Tenho disciplina e organização como pilares da minha rotina, o que me permite cumprir prazos com eficiência. Além disso, sou resiliente diante de desafios, mantendo o foco e a motivação para alcançar resultados consistentes, mesmo em contextos desfavoráveis.
+Também possuo experiência com Docker e serviços da AWS (S3, CloudFront, EC2, ECR e IAM), participando de processos de build, deploy e entrega contínua.
+
+Recentemente concluí a Pós Tech Developer 360 da Rocketseat, com foco em Desenvolvimento Full Stack e Inteligência Artificial. Durante a formação, desenvolvi aplicações utilizando React, além de backend com Node.js e TypeScript, GraphQL, Prisma ORM e SQLite, ampliando minha visão sobre arquitetura de sistemas e integração entre frontend e backend.
+
+Tenho familiaridade com testes automatizados e interesse em evoluir cada vez mais nessa área como parte da construção de aplicações mais confiáveis e sustentáveis.
+
+Trabalho de forma colaborativa em ambientes ágeis (Scrum e Kanban), atuando próximo de designers, back-end e stakeholders para transformar requisitos de negócio em produtos digitais robustos e escaláveis.
 
