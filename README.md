@@ -1,4 +1,8 @@
-> 👋 Hello World! Meu nome é Michel Shin.
+> 👋 こんにちは世界！私は
 
-Desenvolvo produtos digitais que unem tecnologia, estratégia e experiência humana.
+Michel Shintaku
+Full Stack Developer
+
+Crio produtos digitais que unem tecnologia e estratégia, com foco no usuário,
+transformando necessidades reais em soluções inovadoras.
 
